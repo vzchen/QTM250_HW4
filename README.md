@@ -14,7 +14,7 @@ To test the [natural language API](https://cloud.google.com/natural-language/doc
 
 ![Sentiment Analysis Training](https://github.com/vzchen/QTM250_HW4/blob/main/READ.ME%20Images/capture_3.JPG)
 
-The results will give a measurement of polarity (ranging from -1.0 to 1.0) and magnitude (ranging from 0 to inf):
+The results will give a measurement of polarity (whether sentiment is + or -) and magnitude (strength of sentiment):
 
 ![Sentiment Analysis Results](https://github.com/vzchen/QTM250_HW4/blob/main/READ.ME%20Images/capture_4.JPG)
 

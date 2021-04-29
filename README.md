@@ -12,4 +12,13 @@ The results will give a verbatim transcript as well as a confidence estimate for
 
 To test the [natrual language API](https://cloud.google.com/natural-language/docs/apis), paste an excerpt of text into the Jupyter Notebook as shown:
 
+![Sentiment Analysis Training](https://github.com/vzchen/QTM250_HW4/blob/main/READ.ME%20Images/capture_3.JPG)
+
+The results will give a measurement of polarity (ranging from -1.0 to 1.0) and magnitude (ranging from 0 to inf):
+
+![Sentiment Analysis Results](https://github.com/vzchen/QTM250_HW4/blob/main/READ.ME%20Images/capture_4.JPG)
+
+## Analysis Workflow
+
+## Architecture Overview
 

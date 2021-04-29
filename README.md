@@ -10,7 +10,7 @@ The results will give a verbatim transcript as well as a confidence estimate for
 
 ![Speech-to-Text Results](https://github.com/vzchen/QTM250_HW4/blob/main/READ.ME%20Images/capture_2.JPG)
 
-To test the [natrual language API](https://cloud.google.com/natural-language/docs/apis), paste an excerpt of text into the Jupyter Notebook as shown:
+To test the [natural language API](https://cloud.google.com/natural-language/docs/apis), paste an excerpt of text into the Jupyter Notebook as shown:
 
 ![Sentiment Analysis Training](https://github.com/vzchen/QTM250_HW4/blob/main/READ.ME%20Images/capture_3.JPG)
 

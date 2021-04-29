@@ -6,7 +6,9 @@ To test the [speech-to-text API](https://cloud.google.com/speech-to-text/docs/re
 
 ![Speech-to-Text Training](https://github.com/vzchen/QTM250_HW4/blob/main/READ.ME%20Images/capture_1.JPG)
 
-The results will give a verbatim transcript as well as a confidence estimate for the accuracy.
+The results will give a verbatim transcript as well as a confidence estimate for the accuracy:
+
+![Speech-to-Text Results](https://github.com/vzchen/QTM250_HW4/blob/main/READ.ME%20Images/capture_2.JPG)
 
 To test the [natrual language API](https://cloud.google.com/natural-language/docs/apis), paste an excerpt of text into the Jupyter Notebook as shown:
 

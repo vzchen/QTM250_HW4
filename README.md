@@ -2,6 +2,10 @@
 
 ## Training Workflow
 
-To test the [speech-to-text API](https://cloud.google.com/speech-to-text/docs/reference/rest), upload an audio file to Google Cloud Storage. Next, obtain the URI link for that audio file. The formatting of the link is as follows: gs://<bucket_name>/<file_path>. Place this link into the Jupyter Notebook as shown:
+To test the [speech-to-text API](https://cloud.google.com/speech-to-text/docs/reference/rest), upload an audio file to Google Cloud Storage. Next, obtain the URI link for that audio file. The formatting of the link is as follows: gs://<bucket_name>/<file_path>. Paste this link into the Jupyter Notebook as shown:
+
+The results will give a verbatim transcript as well as a confidence estimate for the accuracy.
+
+To test the [natrual language API](https://cloud.google.com/natural-language/docs/apis), paste an excerpt of text into the Jupyter Notebook as shown:
 
 

@@ -20,6 +20,10 @@ The results will give a measurement of polarity (whether sentiment is + or -) an
 
 ## Analysis Workflow
 
+Transcription accuracy was calculated based on the following [formula](https://www.rev.ai/blog/how-to-calculate-word-error-rate/#:~:text=To%20correctly%20calculate%20WER%2C%20we,rate%20of%20about%2038%20percent.): # of mistakes/total wordcount. Bar graphs were plotted in Google Sheets for comparison of accuracy, magnitude, and polarity:
+
+
+
 ## [Architecture Overview](https://drive.google.com/file/d/1YouR2gEjl6tFX6OE_bcwD8CucspcET0f/view?usp=sharing)
 
 ![draw.io](https://github.com/vzchen/QTM250_HW4/blob/main/READ.ME%20Images/draw.io.JPG)

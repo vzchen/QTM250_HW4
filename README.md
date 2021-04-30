@@ -20,5 +20,5 @@ The results will give a measurement of polarity (whether sentiment is + or -) an
 
 ## Analysis Workflow
 
-## Architecture Overview
+## [Architecture Overview](https://drive.google.com/file/d/1YouR2gEjl6tFX6OE_bcwD8CucspcET0f/view?usp=sharing)
 

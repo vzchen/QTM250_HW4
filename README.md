@@ -22,3 +22,5 @@ The results will give a measurement of polarity (whether sentiment is + or -) an
 
 ## [Architecture Overview](https://drive.google.com/file/d/1YouR2gEjl6tFX6OE_bcwD8CucspcET0f/view?usp=sharing)
 
+![draw.io](https://github.com/vzchen/QTM250_HW4/blob/main/READ.ME%20Images/draw.io.JPG)
+
